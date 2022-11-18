@@ -21,7 +21,7 @@ public class Odev2Main {
         int toplamMaas = odev2.sayfa2soru2(20);
         System.out.println(toplamMaas);
 
-        int otoparkUcreti = odev2.sayfa2soru3(5);
+        int otoparkUcreti = odev2.sayfa2soru3(7);
         System.out.println(otoparkUcreti);
     }
 }
