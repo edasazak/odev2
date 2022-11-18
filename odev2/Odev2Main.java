@@ -15,8 +15,8 @@ public class Odev2Main {
 
         System.out.println("-----------------------------------------");
 
-        int icAcilarToplami = odev2.sayfa2soru1(5);
-        System.out.println(icAcilarToplami);
+        int icAci = odev2.sayfa2soru1(5);
+        System.out.println(icAci);
 
         int toplamMaas = odev2.sayfa2soru2(20);
         System.out.println(toplamMaas);
